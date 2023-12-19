@@ -4,7 +4,9 @@ Welcome to Snake Game, a classic game made using HTML, CSS, and JavaScript. This
 
 **Getting Started**
 To run the game locally, follow these steps:
+
 Clone the project from the GitHub repository: https://github.com/NidhiBolia/SnakeGame.git
+
 Open the index.html file in your browser to start playing the game.
 
 **Gameplay**
